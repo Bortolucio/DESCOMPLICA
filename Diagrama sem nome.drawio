@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T14:55:39.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-m51fCF5-NMZ9yQX9-SN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T14:57:21.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ioHEPF-Uz5DTZaKzscPj" version="22.0.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1018" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -268,8 +268,8 @@
         <mxCell id="cbbn3TleY6cBq1pO80VD-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.498;exitY=0.901;exitDx=0;exitDy=0;exitPerimeter=0;" parent="2b4e8129b02d487f-1" source="cbbn3TleY6cBq1pO80VD-74" target="cbbn3TleY6cBq1pO80VD-75" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="460" />
-              <mxPoint x="350" y="460" />
+              <mxPoint x="620" y="430" />
+              <mxPoint x="350" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -292,10 +292,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbbn3TleY6cBq1pO80VD-98" value="Confirmar instalação concluída" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="cbbn3TleY6cBq1pO80VD-31" vertex="1">
-          <mxGeometry x="750" y="32.5" width="70" height="45" as="geometry" />
+          <mxGeometry x="740" y="32.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cbbn3TleY6cBq1pO80VD-99" value="Finalizar" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="cbbn3TleY6cBq1pO80VD-31" vertex="1">
-          <mxGeometry x="850" y="25" width="60" height="60" as="geometry" />
+          <mxGeometry x="840" y="25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="suQ_DmVQzd3mDS7lB8pJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cbbn3TleY6cBq1pO80VD-31" source="suQ_DmVQzd3mDS7lB8pJ-7" target="cbbn3TleY6cBq1pO80VD-98">
           <mxGeometry relative="1" as="geometry" />
@@ -421,8 +421,8 @@
         <mxCell id="cbbn3TleY6cBq1pO80VD-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-1" source="cbbn3TleY6cBq1pO80VD-4" target="cbbn3TleY6cBq1pO80VD-112" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="270" />
-              <mxPoint x="40" y="820" />
+              <mxPoint x="40" y="240" />
+              <mxPoint x="40" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -432,8 +432,7 @@
         <mxCell id="dmcIk-A7aZQFWuHRZlez-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#009900;" parent="2b4e8129b02d487f-1" source="cbbn3TleY6cBq1pO80VD-56" target="cbbn3TleY6cBq1pO80VD-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="320" />
-              <mxPoint x="372" y="320" />
+              <mxPoint x="372" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
